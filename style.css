@@ -5,7 +5,7 @@ html {
 	}
 
 @media (min-width: 1000px) {
-	content {
+	main {
 		margin-top: 100px;
 	}
 }
